@@ -23,13 +23,13 @@
 - primary : #c9900c
 - nav bar : #221800
 
-#### Home Config
+#### (Home Config)[https://github.com/mhsumbal-coveo/Headless-Training/blob/main/Ansys/HomeConfig.tsx]
 
 
-#### Search Config
+#### (Search Config)[https://github.com/mhsumbal-coveo/Headless-Training/blob/main/Ansys/SearchConfig.tsx]
 
 
-#### Assets
+#### (Assets)[https://github.com/mhsumbal-coveo/Headless-Training/tree/main/Ansys/Assets]
 
 
 #### .env
