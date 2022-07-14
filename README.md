@@ -3,7 +3,7 @@
 ## Agenda
 - Understanding React x Headless 
 - Setting up FiServ on your computer
-- How to create an API key (mainly taling about privileges)
+- How to create an API key (mainly talking about privileges)
 - File Structure and component layout
 - Understanding the config File
 - Custom styling
