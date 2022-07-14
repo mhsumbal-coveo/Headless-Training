@@ -5,7 +5,7 @@
 - Setting up FiServ on your computer
 - How to create an API key (mainly talking about privileges)
 - File Structure and component layout
-- Understanding the config File
+- Understanding the config file
 - Custom styling
 - Code along (From FiServ to Ansys)
 
