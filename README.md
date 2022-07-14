@@ -10,27 +10,36 @@
 - Code along (From FiServ to Ansys)
 
 
-## Guides
-
-### API Key privileges
+## API Key privileges
 
 [screenshots](https://github.com/mhsumbal-coveo/Headless-Training/blob/main/API-Key_Screenshots.md) 
 
 
-### Ansys Requirements
+## Ansys Requirements
 
-#### Colors
+### Colors
 - primary : #c9900c
 - nav bar : #221800
 
-#### (Home Config)[https://github.com/mhsumbal-coveo/Headless-Training/blob/main/Ansys/HomeConfig.tsx]
+
+### Theme Config
+
+[click here](https://github.com/mhsumbal-coveo/Headless-Training/blob/main/Ansys/theme.tsx)
+
+### Home Config
+
+[click here](https://github.com/mhsumbal-coveo/Headless-Training/blob/main/Ansys/HomeConfig.tsx)
 
 
-#### (Search Config)[https://github.com/mhsumbal-coveo/Headless-Training/blob/main/Ansys/SearchConfig.tsx]
+### Search Config
+
+[click here](https://github.com/mhsumbal-coveo/Headless-Training/blob/main/Ansys/SearchConfig.tsx)
 
 
-#### (Assets)[https://github.com/mhsumbal-coveo/Headless-Training/tree/main/Ansys/Assets]
+### Assets
+
+[click here](https://github.com/mhsumbal-coveo/Headless-Training/tree/main/Ansys/Assets)
 
 
-#### .env
+### .env
 contact mhsumbal@coveo.com
