@@ -1,4 +1,4 @@
 ### API KEY Privileges
-![1](https://user-images.githubusercontent.com/104369481/179070568-aebc503a-750c-4e1f-bde3-f0ecd1496b67.PNG)
-![2](https://user-images.githubusercontent.com/104369481/179070574-1a3d7030-50ee-442f-9dec-b1e59ca0cb82.PNG)
-![3](https://user-images.githubusercontent.com/104369481/179070585-b6bb056c-1fc6-432f-af7e-b77b8fed174a.PNG)
+![1](https://user-images.githubusercontent.com/104369481/189712675-f2de5a66-ff3e-48d8-9e41-1dfc4d53d9d7.png)
+
+![2](https://user-images.githubusercontent.com/104369481/189712707-1b17a782-c1ee-4508-8532-3d7b295c9168.png)
